@@ -65,7 +65,7 @@ The project is built using Python and the following libraries:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Sentilytics-TwitterSentimentAnalysis.git
+   git clone https://github.com/itspiyush3451/Sentilytics-TwitterSentimentAnalysis.git
    ```
 2. Navigate to the project directory:
    ```bash
