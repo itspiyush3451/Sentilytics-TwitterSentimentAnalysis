@@ -117,5 +117,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any questions or suggestions, feel free to contact:
-- **Your Name**: [piyushyadav7666@gmail.com](mailto:piyushyadav7666@gmail.com)
+- **E-mail**: [piyushyadav7666@gmail.com](mailto:piyushyadav7666@gmail.com)
 - **GitHub**: [itspiyush](https://github.com/your-username)
